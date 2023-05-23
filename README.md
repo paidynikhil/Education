@@ -1,19 +1,18 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduhome)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduhome?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduhome?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/dMZujoGxjRo?style=social)](https://youtu.be/dMZujoGxjRo)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/paidynikhil/Education)
+  ![GitHub stars](https://img.shields.io/github/stars/paidynikhil/Education?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/paidynikhil/Education?style=social)
+  [YouTube Video Views]
 
   <br />
   <br />
 
-  <h2 align="center">EduHome - Education website</h2>
+  <h2 align="center">Education - Education website</h2>
 
   EduHome is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/eduhome/"><strong>➥ Live Demo</strong></a>
+  <a href="https://paidynikhil.github.io/Education/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
