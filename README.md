@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![EduHome Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Education Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
